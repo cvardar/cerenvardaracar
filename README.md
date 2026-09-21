@@ -1,3 +1,7 @@
+# Photo-ready version
+
+**All photographs are included directly in the same folder as `index.html` as ordinary `.jpg` files.** This avoids GitHub folder-upload problems. When uploading to GitHub, select every file in this folder at once, including the eight `.jpg` files.
+
 # Ceren Vardar Acar — Academic Website
 
 Bu klasör, **GitHub Pages'e doğrudan yüklenebilen**, ek kurulum gerektirmeyen statik bir akademik web sitesidir. HTML + CSS + çok küçük bir JavaScript dosyasından oluşur. Jekyll, npm, tema kurulumu veya terminal gerekmez.
