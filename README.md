@@ -84,7 +84,7 @@ CV'nizi örneğin `CV_Ceren_Vardar_Acar.pdf` adıyla `assets/` klasörüne yükl
 
 ## Mevcut içerik notları
 
-Site başlangıç sürümünde araştırma alanları, seçilmiş yayınlar, EAJ 2026 İstanbul, EcoSta 2026 Kyoto ve 2024 Isaac Newton Institute davetli sunumu eklenmiştir. Kişisel fotoğraflar `assets/` klasöründe web için optimize edilmiştir.
+Site bu sürümde Lévy süreçleri ve fractional Brownian motion araştırmaları, seçilmiş yayınlar, seçilmiş grants/projeler, STAT 467 Multivariate Analysis dahil teaching bilgileri, EAJ 2026 İstanbul, EcoSta 2026 Kyoto ve 2024 Isaac Newton Institute davetli sunumunu içerir. Kişisel fotoğraflar `assets/` klasöründe web için optimize edilmiştir.
 
 ## Gizlilik notu
 

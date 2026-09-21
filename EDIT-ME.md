@@ -6,6 +6,7 @@ GitHub'da `index.html` dosyasını açıp sağ üstteki **kalem (Edit this file)
 
 - `EDIT HERE: HERO / INTRO TEXT`
 - `EDIT HERE: RESEARCH INTERESTS`
+- `EDIT HERE: GRANTS & PROJECTS`
 - `EDIT HERE: PUBLICATIONS / CURRENT WORK`
 - `EDIT HERE: TALKS & CONFERENCES`
 - `EDIT HERE: TEACHING`
@@ -25,6 +26,19 @@ Fotoğraflar `assets/` klasöründedir. En kolay yöntem:
 4. **Commit changes** deyin.
 
 Hero fotoğrafı CSS içinden çağrılıyor. Onu değiştirmek için `styles.css` dosyasında `assets/hero-sunset.webp` ifadesini arayın ve yeni dosya adıyla değiştirin.
+
+
+## Araştırma alanlarını değiştirmek
+
+`RESEARCH INTERESTS` bölümünde Lévy süreçleri, maksimum drawdown/drawup, extreme values ve **fractional Brownian motion** kartları bulunuyor. Fractional Brownian motion çalışmalarının altında ayrıca seçilmiş araştırma başlıklarının yer aldığı bir liste vardır. Yalnızca görünen metinleri değiştirmeniz yeterli.
+
+## Grants / projeler eklemek
+
+`GRANTS & PROJECTS` yorumunu bulun. Yeni bir proje eklemek için mevcut `grant-card` bloklarından birini kopyalayın ve program, yıl, proje başlığı ve rol bilgisini değiştirin.
+
+## Ders eklemek
+
+`TEACHING` bölümünde ders kartlarından birini kopyalayabilirsiniz. Bu sürümde **STAT 467 Multivariate Analysis** da eklenmiştir.
 
 ## Yeni yayın eklemek
 
